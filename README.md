@@ -7,3 +7,20 @@ contains problem from JALAN TECHNOLOGIES
 * It is a billing service for different services done on a car.
 * It is made using OOPs.
 
+# Enums
+* Car Type
+1. Sedan
+2. HatchBack
+3. SUV
+
+# Services
+1. Basic Servicing
+2. Brake Fixing
+3. Clutch Fixing
+4. Gear Fixing
+5. Engine Fixing
+6. Complimentary cleaning when the bill is greater than ₹10000.
+
+
+
+
