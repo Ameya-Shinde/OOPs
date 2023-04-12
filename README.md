@@ -19,7 +19,7 @@ contains problem from JALAN TECHNOLOGIES
 3. Clutch Fixing
 4. Gear Fixing
 5. Engine Fixing
-6. Complimentary cleaning when the bill is greater than ₹10000.
+6. Complimentary cleaning when the bill is greater than ₹10k.
 
 
 #Demo
